@@ -1,5 +1,7 @@
 # Frédéric Barthelet
 
+[![Twitter](https://img.shields.io/twitter/follow/bartheletf.svg?style=social&label=@bartheletf)](https://twitter.com/bartheletf)
+
 ## 📖 Articles
 
 - 2020 🇬🇧 [Setup AWS Organizations With Google Suite SAML SSO](https://medium.com/serverless-transformation/setup-aws-organizations-with-google-suite-saml-sso-7e676f5ed3e1)
