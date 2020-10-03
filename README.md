@@ -2,6 +2,11 @@
 
 [![Twitter](https://img.shields.io/twitter/follow/bartheletf.svg?style=social&label=@bartheletf)](https://twitter.com/bartheletf)
 
+![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
+![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
+![AWS](https://img.shields.io/badge/AWS-%23FFFFFF?logo=amazon-aws&logoColor=orange&style=for-the-badge)
+
+
 ## 📖 Articles
 
 - 2020 🇬🇧 [Setup AWS Organizations With Google Suite SAML SSO](https://medium.com/serverless-transformation/setup-aws-organizations-with-google-suite-saml-sso-7e676f5ed3e1)
