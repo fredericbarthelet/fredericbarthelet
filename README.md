@@ -1,6 +1,9 @@
 # Frédéric Barthelet
 
 [![Twitter](https://img.shields.io/twitter/follow/bartheletf.svg?style=social&label=@bartheletf)](https://twitter.com/bartheletf)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/bartheletf?label=reddit&style=social)](https://www.reddit.com/user/bartheletf)
+[![GitHub followers](https://img.shields.io/github/followers/fredericbarthelet?style=social)](https://github.com/fredericbarthelet)
+[![dev.to](https://img.shields.io/badge/dev.to-@fredericbarthelet-black?style=social&logo=dev.to)](https://dev.to/fredericbarthelet)
 
 ![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
