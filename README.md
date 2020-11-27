@@ -12,6 +12,7 @@
 
 ## 📖 Articles
 
+- 2020 🇬🇧 [Serverless service file Typescript definitions will never be outdated again!](https://medium.com/serverless-transformation/serverless-service-file-typescript-definitions-will-never-be-outdated-again-f5c0d2a80e95)
 - 2020 🇬🇧 [Infrastructure as Code only works as Code…](https://medium.com/serverless-transformation/infrastructure-as-code-only-works-as-code-a8f0072b29cf)
 - 2020 🇬🇧 [Setup AWS Organizations With Google Suite SAML SSO](https://medium.com/serverless-transformation/setup-aws-organizations-with-google-suite-saml-sso-7e676f5ed3e1)
 - 2019 🇫🇷 [Retour d'expérience d'architecture d'un bundle Symfony](https://afsy.fr/avent/2019/18-rex-implementation-bundle-symfony)
