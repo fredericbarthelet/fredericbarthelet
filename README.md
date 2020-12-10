@@ -3,8 +3,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/bartheletf.svg?style=social&label=@bartheletf)](https://twitter.com/bartheletf)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/bartheletf?label=reddit&style=social)](https://www.reddit.com/user/bartheletf)
 [![GitHub followers](https://img.shields.io/github/followers/fredericbarthelet?style=social)](https://github.com/fredericbarthelet)
-[![Medium](https://img.shields.io/badge/medium-@fbarthelet-black?style=social&logo=medium)](https://medium.com/@fbarthelet)
-[![dev.to](https://img.shields.io/badge/dev.to-@fredericbarthelet-black?style=social&logo=dev.to)](https://dev.to/fredericbarthelet)
 
 ![Serverless](https://img.shields.io/badge/Serverless-%23FFFFFF?logo=serverless&logoColor=red&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
@@ -12,6 +10,9 @@
 
 
 ## 📖 Articles
+
+[![Medium](https://img.shields.io/badge/medium-@fbarthelet-black?style=social&logo=medium)](https://medium.com/@fbarthelet)
+[![dev.to](https://img.shields.io/badge/dev.to-@fredericbarthelet-black?style=social&logo=dev.to)](https://dev.to/fredericbarthelet)
 
 - 2020 🇬🇧 [The 6 Top Libraries for AWS Serverless TypeScript Developers](https://medium.com/serverless-transformation/the-awesome-libraries-of-aws-typescript-serverless-developers-c50e859a0ef0)
 - 2020 🇬🇧 [Serverless service file Typescript definitions will never be outdated again!](https://medium.com/serverless-transformation/serverless-service-file-typescript-definitions-will-never-be-outdated-again-f5c0d2a80e95)
