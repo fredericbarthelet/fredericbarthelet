@@ -8,6 +8,8 @@
 ![Typescript](https://img.shields.io/badge/typescript%20-%23FFFFFF.svg?&style=for-the-badge&logo=typescript&logoColor=blue)
 ![AWS](https://img.shields.io/badge/AWS-%23FFFFFF?logo=amazon-aws&logoColor=orange&style=for-the-badge)
 
+![Frédéric Barthelet's github stats](https://github-readme-stats.vercel.app/api?username=fredericbarthelet&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats)
+
 
 ## 📖 Articles
 
