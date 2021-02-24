@@ -25,6 +25,7 @@
 
 ## 📺 Talks
 
+- 2021 🇬🇧 [Learnings of an event-based serverless application to broadcast real-time traffic alerts](https://www.youtube.com/watch?v=AJir5savltM) @ [ServerlessDays Belgium](https://www.meetup.com/fr-FR/ServerlessDays-Belgium/)
 - 2020 🇫🇷 [Event Sourcing en serverless : REX du développement d'une application de diffusion d'alertes info traffic en temps réel](https://www.youtube.com/watch?v=w_7dz77P9DE) @ [ServerlessDays Paris](https://paris.serverlessdays.io/)
 - 2020 🇬🇧 [Typescript Dynamic Typing with Serverless Plugin](https://www.youtube.com/watch?v=s0nX_MDSDag) @ [Serverless London Meetup](https://www.meetup.com/Serverless-London/)
 - 2019 🇫🇷 [Mise en place d'une architecture serverless complexe](https://www.youtube.com/watch?v=2n9AWXvb32E) @ [Tech Leaders Club](https://www.techleaders.club)
