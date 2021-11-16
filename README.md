@@ -10,6 +10,11 @@
 
 ![Frédéric Barthelet's github stats](https://github-readme-stats.vercel.app/api?username=fredericbarthelet&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats)
 
+## 👨‍👩‍👧‍👦 Community
+
+- [ServerlessDays Paris 🦄🗼🇫🇷](https://paris.serverlessdays.io/) organizer
+- [AWS Community Builder](https://aws.amazon.com/fr/developer/community/community-builders/) member
+
 ## 🚀 Projects
 
 - [fredericbarthelet/typebridge](https://github.com/fredericbarthelet/typebridge): Typescript toolbox for AWS EventBridge
