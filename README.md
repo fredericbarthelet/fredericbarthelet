@@ -10,6 +10,11 @@
 
 ![Frédéric Barthelet's github stats](https://github-readme-stats.vercel.app/api?username=fredericbarthelet&count_private=true&show_icons=true&hide_border=true&custom_title=Github%20Stats)
 
+## 🚀 Projects
+
+- [fredericbarthelet/typebridge](https://github.com/fredericbarthelet/typebridge): Typescript toolbox for AWS EventBridge
+- [getlift/lift](https://github.com/getlift/lift): Production-ready constructs for the Serverless Framework
+- [serverless/typescript](https://github.com/serverless/typescript): Typescript auto-generated type definitions for the Serverless Framework
 
 ## 📖 Articles
 
@@ -27,6 +32,7 @@
 
 ## 📺 Talks
 
+- 2021 🇬🇧 Learnings of an event-based serverless application to broadcast real-time traffic alerts - recording comming soon @ [DevBreak](https://www.devbreak.io/)
 - 2021 🇫🇷 [Les cabines d'entreprises connectées : une histoire d'amour entre IoT et serverless](https://youtu.be/RwAEUx55Zew?t=21760) @ AWS Community Day France
 - 2021 🇬🇧 [Learnings of an event-based serverless application to broadcast real-time traffic alerts](https://www.youtube.com/watch?v=AJir5savltM) @ [ServerlessDays Belgium](https://www.meetup.com/fr-FR/ServerlessDays-Belgium/)
 - 2020 🇫🇷 [Event Sourcing en serverless : REX du développement d'une application de diffusion d'alertes info traffic en temps réel](https://www.youtube.com/watch?v=w_7dz77P9DE) @ [ServerlessDays Paris](https://paris.serverlessdays.io/)
