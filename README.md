@@ -26,6 +26,7 @@
 [![Medium](https://img.shields.io/badge/medium-@fbarthelet-black?style=social&logo=medium)](https://medium.com/@fbarthelet)
 [![dev.to](https://img.shields.io/badge/dev.to-@fredericbarthelet-black?style=social&logo=dev.to)](https://dev.to/fredericbarthelet)
 
+- 2022 🇬🇧 [Serverless can benefit from not being so Lambda-centric](https://dev.to/kumo/serverless-can-benefit-from-not-being-so-lambda-centric-1c4h)
 - 2021 🇬🇧 [Developing a Serverless Scheduler Using DynamoDB TTL and Filtered Streams](https://www.serverless.com/blog/guest-post-developing-a-serverless-scheduler-using-dynamodb-ttl-and-filtered-streams)
 - 2021 🇬🇧 [Serverless webhooks — Designing Lift](https://medium.com/serverless-transformation/serverless-webhooks-designing-lift-d01fcdca2bd5)
 - 2021 🇬🇧 [File Storage on AWS — Designing Lift](https://medium.com/serverless-transformation/file-storage-on-aws-designing-lift-1caf8c7b9bb0)
