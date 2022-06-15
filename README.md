@@ -26,6 +26,7 @@
 [![Medium](https://img.shields.io/badge/medium-@fbarthelet-black?style=social&logo=medium)](https://medium.com/@fbarthelet)
 [![dev.to](https://img.shields.io/badge/dev.to-@fredericbarthelet-black?style=social&logo=dev.to)](https://dev.to/fredericbarthelet)
 
+- 2022 🇬🇧 [Serverless Framework ️❤️ AWS CDK](https://dev.to/kumo/serverless-framework-aws-cdk-1dnf)
 - 2022 🇬🇧 [Serverless can benefit from not being so Lambda-centric](https://dev.to/kumo/serverless-can-benefit-from-not-being-so-lambda-centric-1c4h)
 - 2021 🇬🇧 [Developing a Serverless Scheduler Using DynamoDB TTL and Filtered Streams](https://www.serverless.com/blog/guest-post-developing-a-serverless-scheduler-using-dynamodb-ttl-and-filtered-streams)
 - 2021 🇬🇧 [Serverless webhooks — Designing Lift](https://medium.com/serverless-transformation/serverless-webhooks-designing-lift-d01fcdca2bd5)
@@ -39,6 +40,7 @@
 
 ## 📺 Talks
 
+- 2022 🇫🇷 Connaître la disponibilité en temps réel de ses cabines d'entreprises grâce aux services serverless d'AWS @ [web2day](https://web2day.co/)
 - 2021 🇬🇧 Learnings of an event-based serverless application to broadcast real-time traffic alerts - recording comming soon @ [DevBreak](https://www.devbreak.io/)
 - 2021 🇫🇷 [Les cabines d'entreprises connectées : une histoire d'amour entre IoT et serverless](https://youtu.be/RwAEUx55Zew?t=21760) @ AWS Community Day France
 - 2021 🇬🇧 [Learnings of an event-based serverless application to broadcast real-time traffic alerts](https://www.youtube.com/watch?v=AJir5savltM) @ [ServerlessDays Belgium](https://www.meetup.com/fr-FR/ServerlessDays-Belgium/)
