@@ -41,8 +41,10 @@
 
 ## 📺 Talks
 
+- 2022 🇬🇧 Going functionless – Stop writing unnecessary code @ [Serverless Architecture Conference 2022 Berlin](https://serverless-architecture.io/berlin/)
 - 2022 🇫🇷 Connaître la disponibilité en temps réel de ses cabines d'entreprises grâce aux services serverless d'AWS @ [web2day](https://web2day.co/)
-- 2021 🇬🇧 Learnings of an event-based serverless application to broadcast real-time traffic alerts - recording comming soon @ [DevBreak](https://www.devbreak.io/)
+- 2021 🇫🇷 [Découvrez le serverless](https://www.youtube.com/watch?v=2hw5qz-95YA) @ [Cheerz Tech Meetup](https://www.meetup.com/fr-FR/cheerz-tech-meetups/)
+- 2021 🇬🇧 Learnings of an event-based serverless application to broadcast real-time traffic alerts @ [DevBreak](https://www.devbreak.io/)
 - 2021 🇫🇷 [Les cabines d'entreprises connectées : une histoire d'amour entre IoT et serverless](https://youtu.be/RwAEUx55Zew?t=21760) @ AWS Community Day France
 - 2021 🇬🇧 [Learnings of an event-based serverless application to broadcast real-time traffic alerts](https://www.youtube.com/watch?v=AJir5savltM) @ [ServerlessDays Belgium](https://www.meetup.com/fr-FR/ServerlessDays-Belgium/)
 - 2020 🇫🇷 [Event Sourcing en serverless : REX du développement d'une application de diffusion d'alertes info traffic en temps réel](https://www.youtube.com/watch?v=w_7dz77P9DE) @ [ServerlessDays Paris](https://paris.serverlessdays.io/)
