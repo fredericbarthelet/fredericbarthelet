@@ -26,6 +26,7 @@
 [![Medium](https://img.shields.io/badge/medium-@fbarthelet-black?style=social&logo=medium)](https://medium.com/@fbarthelet)
 [![dev.to](https://img.shields.io/badge/dev.to-@fredericbarthelet-black?style=social&logo=dev.to)](https://dev.to/fredericbarthelet)
 
+- 2022 🇬🇧 [9 Surprises using AWS EventBridge Scheduler](https://dev.to/kumo/9-surprises-using-aws-eventbridge-scheduler-13b6)
 - 2022 🇫🇷 [Quels sont les réels atouts du Serverless ?](https://www.itpro.fr/quels-sont-les-reels-atouts-du-serverless/)
 - 2022 🇬🇧 [Serverless Framework ️❤️ AWS CDK](https://dev.to/kumo/serverless-framework-aws-cdk-1dnf)
 - 2022 🇬🇧 [Serverless can benefit from not being so Lambda-centric](https://dev.to/kumo/serverless-can-benefit-from-not-being-so-lambda-centric-1c4h)
