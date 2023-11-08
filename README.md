@@ -17,6 +17,7 @@
 
 ## 🚀 Projects
 
+- [revant-io/cdk-cost-limit](https://github.com/revant-io/cdk-cost-limit): A Collection of CDK Constructs to Deploy Cost-Aware Self-Limiting Resources
 - [fredericbarthelet/typebridge](https://github.com/fredericbarthelet/typebridge): Typescript toolbox for AWS EventBridge
 - [getlift/lift](https://github.com/getlift/lift): Production-ready constructs for the Serverless Framework
 - [serverless/typescript](https://github.com/serverless/typescript): Typescript auto-generated type definitions for the Serverless Framework
