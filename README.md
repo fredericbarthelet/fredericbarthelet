@@ -44,6 +44,7 @@
 
 ## 📺 Talks
 
+- 2025 🇫🇷 Outiller ses agents IA grâce à MCP @ [GenAI Rennes](https://www.youtube.com/watch?v=lfB6AX8Egek)
 - 2023 🇬🇧 [Unboxing the Cost Limit for AWS project with Frederic Barthelet from Revant.io](https://www.youtube.com/watch?v=YV94RGhBfOM) @ [CDK Live](https://www.youtube.com/@CDK-Live)
 - 2022 🇬🇧 Going functionless – Stop writing unnecessary code @ [Serverless Architecture Conference 2022 Berlin](https://serverless-architecture.io/berlin/)
 - 2022 🇫🇷 Connaître la disponibilité en temps réel de ses cabines d'entreprises grâce aux services serverless d'AWS @ [web2day](https://web2day.co/)
