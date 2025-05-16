@@ -17,6 +17,7 @@
 
 ## 🚀 Projects
 
+- [fredericbarthelet/middy-mcp](https://github.com/fredericbarthelet/middy-mcp): A Middy middleware for Model Context Protocol (MCP) server integration with AWS Lambda functions
 - [revant-io/cdk-cost-limit](https://github.com/revant-io/cdk-cost-limit): A Collection of CDK Constructs to Deploy Cost-Aware Self-Limiting Resources
 - [fredericbarthelet/typebridge](https://github.com/fredericbarthelet/typebridge): Typescript toolbox for AWS EventBridge
 - [getlift/lift](https://github.com/getlift/lift): Production-ready constructs for the Serverless Framework
